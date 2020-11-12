@@ -1,0 +1,20 @@
+STORAGE: NONE
+RESTRICTION: == net48
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    Aether (8.3.1)
+      FSharp.Core (>= 4.3.4)
+      System.ValueTuple (>= 4.4)
+    Chiron (6.3.1)
+      Aether (>= 8.2)
+      FParsec (>= 1.0.3)
+      FSharp.Core (>= 4.3.4)
+      System.ValueTuple (>= 4.4)
+    ExtCore (0.8.46)
+    FParsec (1.1.1)
+      FSharp.Core (>= 4.3.4)
+      System.ValueTuple (>= 4.4)
+    FSharp.Core (5.0)
+    Suave (2.5.6)
+      FSharp.Core (>= 4.3.4)
+    System.ValueTuple (4.5)
